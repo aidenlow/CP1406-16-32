@@ -1,4 +1,6 @@
 # CP1406-16-32
 Web Design team project
-josh brown
+Josh brown
 Azaraiah vaki
+Aiden Low
+Jacob Hoffensetz
