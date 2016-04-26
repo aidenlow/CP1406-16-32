@@ -1,0 +1,94 @@
+@charset "utf-8";
+#body ul li {
+	list-style-type: none;
+	color: rgba(189,187,187,1.00);
+	font-style: oblique;
+	font-weight: 900;
+	font-size: larger;
+	text-align: center;
+	text-transform: uppercase;
+}
+#body ul li a {
+	width: 20%;
+	display: block;
+	float: left;
+	text-decoration: none;
+	background-color: rgba(0,0,0,1.00);
+	color: rgba(138,138,138,1.00);
+}
+#body #header img {
+	background-color: rgba(44,62,95,1.00);
+}
+
+
+
+#container {
+	background-color: rgba(44,62,95,1.00);
+	padding: 0px;
+	height: auto;
+	width: auto;
+	margin-right: auto;
+	margin-left: auto;
+	border-width: 0px;
+	border-style: solid;
+}
+
+#navBar ul {
+	list-style-type: none;
+	text-decoration: none;
+	text-align: left;
+}
+#a {
+	color: rgba(200,34,36,1.00);
+	text-decoration: none;
+}
+header {
+}
+
+
+a {
+	color: rgba(159,159,159,1.00);
+	font-style: oblique;
+	font-weight: 900;
+	font-size: large;
+	width: 25%;
+	background-color: rgba(0,0,0,1.00);
+	-webkit-box-shadow: inset 0px 0px rgba(0,0,0,1.00);
+	box-shadow: inset 0px 0px rgba(0,0,0,1.00);
+	text-transform: uppercase;
+	min-width: 0px;
+	float: left;
+	text-decoration: none;
+	text-align: center;
+}
+body {
+}
+#header ul li {
+	text-align: center;
+	text-transform: uppercase;
+	list-style-image: none;
+	list-style-type: none;
+	width: 980px;
+}
+#header ul li a {
+	color: rgba(163,163,163,1.00);
+	text-decoration: none;
+}
+header {
+	list-style-type: none;
+}
+#body #header img {
+}
+h1 {
+	color: rgba(0,0,0,1.00);
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+	font-style: oblique;
+	text-align: center;
+}
+.1 {
+	font-style: oblique;
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+	font-weight: 900;
+	font-size: large;
+	text-align: left;
+}
