@@ -1,4 +1,98 @@
 @charset "utf-8";
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+#body {
+	padding: 0px;
+	height: auto;
+	width: 980px;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+	border-width: 0px;
+	border-style: solid;
+	background-color: rgba(44,62,95,1.00);
+}
+#container #body #header {
+	float: left;
+}
+#header {
+	padding: 0px;
+	height: 200px;
+	width: 980px;
+	margin-right: auto;
+	margin-left: auto;
+	border-width: 0px;
+	border-style: solid;
+}
+#navBar {
+	padding: 0px;
+	height: 30px;
+	width: 980px;
+	margin-right: auto;
+	margin-left: auto;
+	border-width: 0px;
+	border-style: solid;
+	list-style-type: none;
+}
+#container #body p {
+	list-style-type: none;
+	background-color: rgba(44,62,95,1.00);
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+	text-align: center;
+}
+#navBar ul {
+	list-style-type: none;
+}
+.navBar {
+	height: 30px;
+	width: 980px;
+	margin-right: auto;
+	margin-left: auto;
+	border-width: 0px;
+	border-style: solid;
+}
+#slider {
+	height: 600px;
+	width: 980px;
+	margin-right: auto;
+	margin-left: auto;
+	border-width: 0px;
+	border-style: solid;
+	padding: 0px;
+}
+#announcement1 {
+	padding: 0px;
+	float: left;
+	height: 500px;
+	width: 480px;
+	margin-right: auto;
+	margin-left: auto;
+	font-style: normal;
+}
+#Announcement2 {
+	padding: 0px;
+	float: right;
+	height: 500px;
+	width: 490px;
+	margin-right: auto;
+	margin-left: auto;
+	border-width: 0px;
+	border-style: solid;
+}
+#sponslogo {
+	padding: 0px;
+	height: 700px;
+	width: 980px;
+	border-width: 0px;
+	border-style: solid;
+	text-align: center;
+}
+
 #body ul li {
 	list-style-type: none;
 	color: rgba(189,187,187,1.00);
