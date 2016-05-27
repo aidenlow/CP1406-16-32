@@ -1,0 +1,122 @@
+@charset "utf-8";
+.carousel {
+	margin-left: auto;
+	margin-right: auto;
+	height: 97px;
+	width: 800px;
+	margin-top: 90px;
+}
+
+.navbar.navbar-default.navbar-fixed-top {
+	font-size: x-large;
+	margin-top:0px;
+	margin-bottom:0px;
+	
+}
+
+body {
+	background-color: #0A1B7F;
+	padding-bottom: 70px;
+	text-align: center;
+}
+.body p{
+	color:white;
+}
+.navbar-header .navbar-brand img {
+	margin-top: -13px;
+
+}
+.navbar-fixed-bottom {
+	width: 99.5%;
+	margin-right: auto;
+	margin-left: auto;
+	text-align: center;
+	background-color: #000000;
+	color: #FFFFFF;
+}
+.footer {
+	width: 45%;
+	margin-right: auto;
+	margin-left: auto;
+	text-align: center;
+}
+.bioSpan {
+	color:white;
+	text-align:center;
+}
+.Maintitle {
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-style: normal;
+	font-weight: bolder;
+	color:white;
+	text-align: center;
+	text-decoration: underline;
+	font-size: 40px;
+	margin-top: 80px;
+	
+}
+.row{
+	align-content:center;
+	display:block;
+	color:#0FFFFF;
+	
+	}
+.profile.image {
+	background-color: transparent;
+	align-content: center;
+	align-self: center;
+	align-items: center;
+	padding: center;
+	alignment-adjust: central;
+
+}
+
+.bioholder {
+	background-color: #000000;
+	padding: inherit;
+	layer-background-color: #00000;
+
+}
+.profileholder {
+	background-color: #000000;
+	display: inherit;
+	width: 350px;
+	height: 600px;
+	color: #000000;
+	padding-right: 0px;
+	layer-background-color: #000000;
+	padding-left: 36px;
+}
+.profile.image {
+}
+.readmore {
+	background-color: #60E5FF;
+}
+.bene {
+	color: #00F3FF;
+	alignment-adjust: central;
+	align-items: center;
+	text-align: center;
+	font-family: basketville;
+	font-size: 24px;
+	letter-spacing: 3px;
+}
+.applybene {
+	color: #00F3FF;
+	font-family: basketville;
+	font-size: 36px;
+	text-align: center;
+	text-decoration: underline;
+	-webkit-transition: all ease-in-out;
+	-o-transition: all ease-in-out;
+	transition: all ease-in-out;
+}
+.applybene:hover {
+	color: #00FF8C;
+}
+.afcm2 {
+	padding-top: 150px;
+	padding-right: 30px;
+	padding-left: 30px;
+	padding-bottom: px;
+}
